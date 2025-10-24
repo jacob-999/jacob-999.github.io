@@ -1,0 +1,24 @@
+/* Montaro Decor custom styles extracted from inline HTML */
+
+/* Font family applied to the whole document */
+.font-display {
+  font-family: 'Manrope', sans-serif;
+}
+
+/* Hero background image previously set inline on the hero section */
+.hero-bg {
+  background-image: linear-gradient(to top, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.1)), url("https://lh3.googleusercontent.com/aida-public/AB6AXuDLWAYDZuaSPBynuqSWTqffteLTecdhz1E4VgM0-fhB071iVRb7BdAL7o1VkhXMSyZsPGqJLlmYrynOaqN7ZHRJ1dR4b2qElMqpOwfUKgXjHDQO0rudBGsSReDHt6GMEMnpfClGNnLqvfPK46YYlqxtl77S_ZwunYXUinMW2Euu068pr02XUif6anSScMrSTEEKYAfQGp5W5Eq96dOZKvpD3O3oC-PbgPafG82CsT20cigEcImFgM4CVjM5ArUw6MqncxmX5L1z5tg");
+}
+
+/* Testimonial avatars background images extracted from inline styles */
+.avatar-sophia {
+  background-image: url("https://lh3.googleusercontent.com/aida-public/AB6AXuBYoevxzKplrT96apuyPmE3YvZQJTNCJEAPjiaEUoQ2fmaiEaXMFVvpgVXbgK_L8m30AOyjU0c5k5gP72WRI-spp0bSGKL4kFY-gchwzdKr4aTRE2Mqs0T3qN3sVl9O4cLMdb9BzxTS_TyYbSEGhXx21rb8PLrT787gw6p2H_eDMyLt1EGykajp_g4xXEZ_1JRMdGPNeQ9AwN4bU7xsGGIw8gpKvN5gtqgy3u4d3Tmc77aBKrDCn3iGstRQ-JbTLxv1O1P6TY3QMlA");
+}
+
+.avatar-ethan {
+  background-image: url("https://lh3.googleusercontent.com/aida-public/AB6AXuBBCaO03L9DJjggxh9y_myLQVuSicEB-gu63sN3aSo56uQluv_y2C5xLUp1YeNao1SwEFIQgEpiDdvXOB5Wvm0in_YGmKhTUeoXsHbecfYfX4snd4RcFjIb7iJTtLI_E6DaduNwBSKW2qPOPBWcWLc1Ag966n_1k-0M3ofTyDw8tjVKVhRdlWYjsAmIU2KTx-0urTB1FWii9fH9hLXrbYEAC958goaQismCdBjSCwC9hAUIU6hGIt1YTKjnmazSMzZHqI8hNpvmoaI");
+}
+
+.avatar-olivia {
+  background-image: url("https://lh3.googleusercontent.com/aida-public/AB6AXuBLQulnJPH_4GFGApzxQeD5sCsMxemiTI5_suFc8In1rXMBrqnlCNOl05IB_x9mXOBQJYO16n7fFcBPhv5Q-Njh1h8esXlRD93rNDaHlc00doVAIYg3HR8dl_z0Mu4nAcojcRjXh4UPbR8D7Jb419eDGI3e19eViTW4B6g9SFFulXYsIMcFFT5HUr20iP2wefbbqv49215xNO8GjbDUetDTAqt4-19oGHmyuYR5p3xIJfTWqIH0fTTGcak5axp9uPva3a27q9la0T0");
+}
